@@ -1,4 +1,4 @@
-# [DEMO НА СЕРВАКЕ С NGINX](https://project-4.newexp.xyz/)
+# [DEMO НА СЕРВАКЕ](https://project-4.newexp.xyz/)
 # О ПРОЕКТЕ
 Проект сделан на laravel+livewire+bootstrap+vite  
 Из настроенных абстрактных сущностей здесь присутствуют:
